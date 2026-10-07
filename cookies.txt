@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.goodfellaslandscape.com	TRUE	/	FALSE	1999999999	__cf_bm	SoAEHTD5p4B.Bzbm5oXEurWHz6LXjJCQaME18LYxFhk-1791337454.8952765-1.0.1.1-icoskztKFyLGsjQVjdnHM9fL2ImeiZFPq61mjrWt3UUnBk4EV4YY_LmBt1ekS2Pddecpno3aN.LkonSRaXKjw6cWx8KnnwmFpvS8FH1fMDlGj5cxMLJd7FcQ5zV1sa7_
+www.goodfellaslandscape.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1791337457|dr-O-7DssxMj
+www.goodfellaslandscape.com	TRUE	/	FALSE	1999999999	sec-fetch-unsupported	1
+www.goodfellaslandscape.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.goodfellaslandscape.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit_miss#dc#desc=fastly_virginia-phy
+

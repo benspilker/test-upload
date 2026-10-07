@@ -1,0 +1,51 @@
+HTTrack3.50-0 launched on Tue, 06 Oct 2026 21:44:14 at https://www.goodfellaslandscape.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://www.goodfellaslandscape.com/ -O1 "C:\My Web Sites\goodfellaslandscapecom" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:44:55	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/O,location.href (from https://www.goodfellaslandscape.com/)
+21:44:55	Error: 	"Not Found" (404) at link https://www.goodfellaslandscape.com/e (from https://www.goodfellaslandscape.com/)
+21:44:55	Error: 	"Not Found" (404) at link https://www.goodfellaslandscape.com/t (from https://www.goodfellaslandscape.com/)
+21:44:55	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/href%2C-location.href (from https://www.goodfellaslandscape.com/)
+21:45:05	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/${s.uri} (from https://www.goodfellaslandscape.com/)
+21:45:05	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/file.mp4 (from https://www.goodfellaslandscape.com/)
+21:45:05	Error: 	"Forbidden" (403) at link https://www.goodfellaslandscape.com/window.location.href (from https://www.goodfellaslandscape.com/)
+21:45:05	Warning: 	Moved Permanently for https://www.goodfellaslandscape.com/api/
+21:45:05	Warning: 	File has moved from https://www.goodfellaslandscape.com/api/ to https://www.goodfellaslandscape.com/api
+21:45:06	Warning: 	Moved Permanently for https://www.goodfellaslandscape.com/envelope/
+21:45:06	Warning: 	File has moved from https://www.goodfellaslandscape.com/envelope/ to https://www.goodfellaslandscape.com/envelope
+21:45:06	Error: 	"Not Found" (404) at link https://www.goodfellaslandscape.com/feed.xml (from https://www.goodfellaslandscape.com/)
+21:47:01	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/D.C (from https://static.parastorage.com/unpkg/@formatjs/intl-segmenter@11.7.10/polyfill.iife.js)
+21:47:01	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/A.M (from https://static.parastorage.com/unpkg/@formatjs/intl-segmenter@11.7.10/polyfill.iife.js)
+21:47:01	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/r.path[0] (from https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js)
+21:47:01	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/t,Ye.location.origin (from https://browser.sentry-cdn.com/7.120.3/bundle.tracing.es5.min.js)
+21:47:01	Warning: 	Moved Permanently for https://www.goodfellaslandscape.com/embed/error-page/
+21:47:01	Warning: 	File has moved from https://www.goodfellaslandscape.com/embed/error-page/ to https://www.goodfellaslandscape.com/embed/error-page
+21:47:01	Error: 	"Not Found" (404) at link https://www.goodfellaslandscape.com/api (from https://www.goodfellaslandscape.com/api/)
+21:47:01	Error: 	"Not Found" (404) at link https://www.goodfellaslandscape.com/envelope (from https://www.goodfellaslandscape.com/envelope/)
+21:47:01	Warning: 	Moved Permanently for https://www.goodfellaslandscape.com/$&/
+21:47:01	Warning: 	File has moved from https://www.goodfellaslandscape.com/$&/ to https://www.goodfellaslandscape.com/%24%26
+21:47:02	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/__wix.memberDetails.mpa (from https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.b7fce77e.bundle.min.js)
+21:47:02	Warning: 	Moved Permanently for https://www.goodfellaslandscape.com/opr/
+21:47:02	Warning: 	File has moved from https://www.goodfellaslandscape.com/opr/ to https://www.goodfellaslandscape.com/opr
+21:47:02	Warning: 	Moved Permanently for https://www.goodfellaslandscape.com/version/
+21:47:02	Warning: 	File has moved from https://www.goodfellaslandscape.com/version/ to https://www.goodfellaslandscape.com/version
+21:47:02	Warning: 	Moved Permanently for https://www.goodfellaslandscape.com/edg/
+21:47:02	Warning: 	File has moved from https://www.goodfellaslandscape.com/edg/ to https://www.goodfellaslandscape.com/edg
+21:47:03	Error: 	"Not Found" (404) at link https://www.goodfellaslandscape.com/u (from https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.b7fce77e.bundle.min.js)
+21:47:03	Warning: 	Moved Permanently for https://www.goodfellaslandscape.com/services/editor-elements/dist/
+21:47:03	Warning: 	File has moved from https://www.goodfellaslandscape.com/services/editor-elements/dist/ to https://www.goodfellaslandscape.com/services/editor-elements/dist
+21:47:03	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/e,r (from https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.b7fce77e.bundle.min.js)
+21:47:03	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/e,t.origin (from https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.b7fce77e.bundle.min.js)
+21:47:03	Error: 	"Not Found" (404) at link https://www.goodfellaslandscape.com/embed/error-page (from https://www.goodfellaslandscape.com/embed/error-page/)
+21:47:03	Error: 	"Bad Request" (400) at link https://www.goodfellaslandscape.com/%24%26 (from https://www.goodfellaslandscape.com/$&/)
+21:47:03	Error: 	"Not Found" (404) at link https://www.goodfellaslandscape.com/opr (from https://www.goodfellaslandscape.com/opr/)
+21:47:03	Error: 	"Not Found" (404) at link https://www.goodfellaslandscape.com/version (from https://www.goodfellaslandscape.com/version/)
+21:47:03	Error: 	"Not Found" (404) at link https://www.goodfellaslandscape.com/edg (from https://www.goodfellaslandscape.com/edg/)
+21:47:03	Error: 	"Not Found" (404) at link https://www.goodfellaslandscape.com/services/editor-elements/dist (from https://www.goodfellaslandscape.com/services/editor-elements/dist/)
+
+HTTrack Website Copier/3.50-0 mirror complete in 2 minutes 49 seconds : 143 links scanned, 110 files written (14103730 bytes overall) [5324988 bytes received at 31508 bytes/sec], 11606665 bytes transferred using HTTP compression in 88 files, ratio 22%, 2.0 requests per connection
+(24 errors, 16 warnings, 0 messages)
